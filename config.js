@@ -14,7 +14,7 @@ config.statsUpdateInterval = 15;
 
 config.nodeTTL = 3600;
 
-config.rpcPort = 11898;
+config.rpcPort = 19994;
 
 config.queueReseedDelay = 60;
 
