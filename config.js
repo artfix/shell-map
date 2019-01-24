@@ -2,7 +2,7 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
+config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/arqtras/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
 
 config.serverHost = '0.0.0.0';
 
