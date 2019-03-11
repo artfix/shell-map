@@ -1,8 +1,32 @@
 {
   "nodes": [
     {
+      "name": "'arqidium.smartcoinpool.com' public node",
+      "url": "arqidium.smartcoinpool.com",
+      "port": 19994,
+      "ssl": false
+    },
+    {
       "name": "'arqma.smartcoinpool.net' public node",
       "url": "arqma.smartcoinpool.net",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'us.supportarqma.com' public node",
+      "url": "us.supportarqma.com",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'eu.supportarqma.com' public node",
+      "url": "us.supportarqma.com",
+      "port": 19994,
+      "ssl": false
+    },
+    {
+      "name": "'jp.supportarqma.com' public node",
+      "url": "jp.supportarqma.com",
       "port": 19994,
       "ssl": false
     }
